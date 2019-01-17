@@ -1,0 +1,22 @@
+[
+    {
+        "firstName": "Ion",
+        "lastName": "Popescu",
+        "averageGrade": 5
+    },
+    {
+        "firstName": "Lucian",
+        "lastName": "Popa",
+        "averageGrade": 7
+    },
+    {
+        "firstName": "Mark",
+        "lastName": "Knopfler",
+        "averageGrade": 3
+    },
+    {
+        "firstName": "Johnny",
+        "lastName": "Cash",
+        "averageGrade": 8
+    }
+]
