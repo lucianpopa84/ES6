@@ -2,21 +2,21 @@
     {
         "firstName": "Alexandru",
         "lastName": "Bitoleanu",
-        "grad": "prof. dr. eng."
+        "title": "prof. dr. eng."
     },
     {
         "firstName": "Ioan",
         "lastName": "Popa",
-        "grad": "prof. dr. eng."
+        "title": "prof. dr. eng."
     },
     {
         "firstName": "Radu",
         "lastName": "Bojoi",
-        "grad": "assoc. prof. dr. eng."
+        "title": "assoc. prof. dr. eng."
     },
     {
         "firstName": "Dan",
         "lastName": "Stanescu",
-        "grad": "assist. dr. eng."
+        "title": "assist. dr. eng."
     }
 ]
